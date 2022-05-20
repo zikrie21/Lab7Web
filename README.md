@@ -68,14 +68,14 @@
 
 ![gambar 20](screenshot/ss20.png)
 
-- berikut merupakan deklarasi hasil inputnya :
+- setelah itu klik submit pada form input
+
+* berikut merupakan deklarasi hasil inputnya :
 
 ![gambar 21](screenshot/ss21.png)
 
 ![gambar 22](screenshot/ss22.png)
 
-- setelah itu klik submit pada form input
-
-* berikut merupakan tampilan website nya :
+- berikut merupakan tampilan website nya :
 
 ![gambar 23](screenshot/ss23.png)
